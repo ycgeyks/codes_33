@@ -1,0 +1,6 @@
+# Project exclude paths
+/eureka-bus/target/
+/eureka-config-client/target/
+/eureka-config-server/target/
+/eureka-server/target/
+/eureka-zuul/target/
